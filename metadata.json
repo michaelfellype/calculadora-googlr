@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python Tkinter - Laboratório Didático",
+  "description": "Aprenda a criar uma calculadora com interface gráfica em Python usando Tkinter, com simulador interativo, código comentado e exercícios práticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
